@@ -1,0 +1,113 @@
+.pagina-principal {
+    background-image: url('https://images.ecestaticos.com/FrS79uUxfRRQUH6UP9c7F6cztbg=/1x0:994x558/1600x900/filters:fill(white):format(jpg):quality(99)/f.elconfidencial.com/original/99e/6a0/119/99e6a0119cb12be2c37f78b6d2d6954c.jpg'); /* Imagen de fondo */
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed; 
+}
+h1 {
+    color: green;
+    text-align: center;
+    font-size: 100px;
+}
+ul {
+    color: black;
+    font-size: 30px;
+}
+.video-enlace {
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+.foto-enlace {
+    font-size: 30px;
+    font-weight: bold; 
+    color: red;
+}
+
+td {
+    color: black;
+    padding: 70px;
+    border: 1px solid #ddd;
+  }
+
+  tr:first-child td {
+    background-color: lightblue;
+  }
+
+  tr:nth-child(2) td {
+    background-color: lightcoral;
+  }
+h3 {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+}
+thead {
+  color: blue;
+  background-color: grey;
+  font-size: 40px;
+}
+ul {
+  font-size: 40px;
+}
+body {
+  background-color: bisque;
+}
+h3 {
+    color: red;
+    text-align: initial;
+    font-size: 35px;
+}
+h4 {
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+}
+h5 {
+    text-align: left;
+    font-size: 30px;
+}
+ul {
+    font-size: 40px;
+}
+body {
+    background-color: bisque;
+}
+body {
+    background: #2c2c2c;
+ }
+ article {
+     position: relative;
+     overflow: hidden;
+     padding: 20px;
+     background: rgba(0,0,0,0.7);
+     margin: 50px auto;
+     width: 70%;
+     border: 2px solid #FFA800;
+     border-radius: 10px;
+     box-shadow: 0 0 4px #FFA800;
+     color: #FFA800;
+     text-align: center;
+ }
+ 
+ #mapa {
+     height: 400px;
+     padding: 0;
+     margin-bottom: 20px;
+ }
+ 
+ #parar {
+     display: block;
+     margin: 20px auto 30px;
+     width: 100px;
+     border: 2px solid #FFA800;
+     border-radius: 10px;
+     box-shadow: 0 0 4px #FFA800;
+     color: #FFA800;
+ }
+ 
+ #parar:hover {
+     border: 2px solid #2E5E90;
+     box-shadow: 0 0 4px #2E5E90;
+     color: #2E5E90;
+ }
